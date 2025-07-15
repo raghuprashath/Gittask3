@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Edited in master
+=======
+ This is modified in branch first
+
+>>>>>>> first

@@ -1,1 +1,5 @@
-Edited in master
+<<<<<<< HEAD
+ Edited in master
+=======
+This is mofified in branch first
+>>>>>>> first
